@@ -6,7 +6,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "Corginator v2 ATSAMD21G18")
-		(date "2024-07-28")
+		(date "2024-08-10")
 		(rev "1.0")
 		(company "Hugo Hu")
 	)
