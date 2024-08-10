@@ -16,7 +16,7 @@ The Corginator v2 is open source hardware. This design was created in [KiCAD](ht
 ![PNG of Schematic Capture](https://github.com/user-attachments/assets/67949de5-8256-40bd-81b0-b063c1746e23)
 
 ## PCB 
-![Image of Assembled Corginator v2](https://www.hugohu.me/media/Corginator-SAMD21G18-Macro.jpg)
+![Image of Assembled Corginator](https://www.hugohu.me/media/Corginator-SAMD21G18-Macro.jpg)
 
 # Attribution 
 
