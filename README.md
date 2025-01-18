@@ -8,6 +8,7 @@ The Corginator _v2_ is an updated version of the original Corginator (which had 
 * Li-poly single cell battery charging enabled with Microchip MCP73831
 * Smaller and lighter design
 
+___CHECK BATTERY PINOUT FIRST. POLARITY MAY BE REVERSED.___
 # Open Source Hardware
 
 The Corginator v2 is open source hardware. This design was created in [KiCAD](https://www.kicad.org), an FOSS schematic capture and PCB layout / routing software. While schematics are provided in PDF format, you will need the latest version of KiCAD (v8 or above) to directly view and modify the schematic and PCB. 
